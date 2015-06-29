@@ -1,0 +1,529 @@
+TFlashAnzan
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-atltxdjoaduhlfbbnfzqrrndlhqm/FlashAnzan-Prefix.pch.pch FlashAnzan/FlashAnzan-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-dffntxloxxkzvladxchgglqcqdpc/FlashAnzan-Prefix.pch.pch FlashAnzan/FlashAnzan-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/ViewController.o /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/AppDelegate.o /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/main.o /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/ViewController.o /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/AppDelegate.o /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/main.o /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/FlashAnzan normal x86_64
+cLd /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/FlashAnzan normal i386
+cCreateUniversalBinary /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/FlashAnzan normal i386\ x86_64
+cCopyStringsFile /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/en.lproj/InfoPlist.strings FlashAnzan/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/Images.xcassets
+cProcessInfoPlistFile /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/Info.plist /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/FlashAnzan-Info.plist
+cGenerateDSYMFile /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app.dSYM /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/FlashAnzan
+cTouch /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533B9F9C00000000000003B4
+t1396416412
+s948
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9FA9000000000000019E
+t1396416425
+s414
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533B9FAC0000000000446820
+t1396416428
+s4483104
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533B9FAE000000000088D8C0
+t1396416430
+s8968384
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533B9FB50000000001F1DE10
+t1396416437
+s32628240
+
+N/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533B6DFC0000000000000ADC
+t1396403708
+s2780
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/AppDelegate.m
+c0000000054292A3B00000000000007BC
+t1411983931
+s1980
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/Base.lproj/Main.storyboard
+c000000005437F9650000000000001646
+t1412954469
+s5702
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/FlashAnzan-Info.plist
+c0000000054251D0000000000000004C8
+t1411718400
+s1224
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/FlashAnzan-Prefix.pch
+c0000000054251D000000000000000158
+t1411718400
+s344
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/Images.xcassets
+c000000005535F2470000000000000088
+t1429598791
+s136
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/ViewController.m
+c00000000542A85E100000000000003DF
+t1412072929
+s991
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/en.lproj/InfoPlist.strings
+c0000000054251D00000000000000002D
+t1411718400
+s45
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/main.m
+c0000000054292A3B0000000000000136
+t1411983931
+s310
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/AppDelegate.o
+t1431695247
+s61948
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/FlashAnzan
+t1431695247
+s18436
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/FlashAnzan.LinkFileList
+c000000005555EF8E00000000000002C9
+t1431695246
+s713
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/ViewController.o
+t1431695247
+s48056
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/main.o
+t1431695247
+s3840
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/AppDelegate.o
+t1431695247
+s68552
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/FlashAnzan
+t1431695247
+s23084
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/FlashAnzan.LinkFileList
+c000000005555EF8E00000000000002CF
+t1431695246
+s719
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/ViewController.o
+t1431695247
+s50032
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/main.o
+t1431695247
+s4292
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/assetcatalog_dependencies.txt
+t1431695247
+s666
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/assetcatalog_generated_info.plist
+t1431695247
+s525
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app
+t1431695247
+s306
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app.dSYM
+t2
+s0
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/Base.lproj/Main.storyboardc
+t1431695247
+s170
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/FlashAnzan
+t1431695247
+s47660
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/Info.plist
+t1431695247
+s1021
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/PkgInfo
+t1431695247
+s8
+
+N/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/en.lproj/InfoPlist.strings
+t1431695247
+s42
+
+N/var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-atltxdjoaduhlfbbnfzqrrndlhqm/FlashAnzan-Prefix.pch.pch
+t1431695247
+s127268
+
+N/var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-dffntxloxxkzvladxchgglqcqdpc/FlashAnzan-Prefix.pch.pch
+t1431695247
+s128184
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesda72d20e2706bb41^52b8fe0e2706bb41^---0#1#1#--18"Check dependencies36"4DD6C731-D77E-44C6-B108-953EFDCC7020-
+
+CCompileAssetCatalog /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/Images.xcassets
+s453388047.611730
+e453388047.939905
+r1
+xCompileAssetCatalog
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/LaunchImage-700-568h@2x.png
+o/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/Assets.car
+o/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"CompileAssetCatalog build/Release-iphonesimulator/FlashAnzan.app FlashAnzan/Images.xcassets91"CompileAssetCatalog build/Release-iphonesimulator/FlashAnzan.app FlashAnzan/Images.xcassets05c49c0f2706bb41^029ef00f2706bb41^-694"/* com.apple.actool.compilation-results *//Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/LaunchImage-700-568h@2x.png/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/Assets.car/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@274"file://localhost/Users/funatsu/dropbox/2_%E3%83%86%E3%82%99%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E7%94%A8/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-%E3%83%86%E3%82%99%E3%83%A2/FlashAnzan(%E4%B8%80%E6%97%A6%E5%AE%8C%E6%88%90)/FlashAnzan/Images.xcassets/0000000000000000^1532"CompileAssetCatalog build/Release-iphonesimulator/FlashAnzan.app FlashAnzan/Images.xcassets    cd "/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)"    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/funatsu/.ads/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app /Users/funatsu/dro36"288C2173-ECF2-44E8-945F-2B693A4ABE95-
+b8DB0C913-97EC-4B4D-BED2-5922F88E2EC4
+
+CCompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/AppDelegate.o /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453388047.152963
+e453388047.413886
+r1
+xCompileC
+xbuild/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/AppDelegate.o
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/AppDelegate.m
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection173"Compile /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/AppDelegate.m199"CompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/AppDelegate.o FlashAnzan/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3755270f2706bb41^4df8690f2706bb41^---0#0#1#-19%DVTDocumentLocation2@271"file://localhost/Users/funatsu/dropbox/2_%E3%83%86%E3%82%99%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E7%94%A8/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-%E3%83%86%E3%82%99%E3%83%A2/FlashAnzan(%E4%B8%80%E6%97%A6%E5%AE%8C%E6%88%90)/FlashAnzan/AppDelegate.m0000000000000000^4583"CompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/AppDelegate.o FlashAnzan/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/funatsu/.ads/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-generated-files.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-own-target-headers.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-all-target-headers.hmap -iquote /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-project-headers.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/DerivedSources/i386 -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/DerivedSources -F/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator -include /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-atltxdjoaduhlfbbnfzqrrndlhqm/FlashAnzan-Prefix.pch -MMD -MT dependencies -MF /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/AppDelegate.dia -c /Users/funatsu/dro36"8363D24E-9AD1-4BFF-B48E-39D20781BDB0-
+b8DB0C913-97EC-4B4D-BED2-5922F88E2EC4
+
+CCompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/ViewController.o /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453388047.152332
+e453388047.389930
+r1
+xCompileC
+xbuild/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/ViewController.o
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/ViewController.m
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection176"Compile /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/ViewController.m205"CompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/ViewController.o FlashAnzan/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2b50270f2706bb41^89ee650f2706bb41^---0#0#1#-19%DVTDocumentLocation2@274"file://localhost/Users/funatsu/dropbox/2_%E3%83%86%E3%82%99%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E7%94%A8/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-%E3%83%86%E3%82%99%E3%83%A2/FlashAnzan(%E4%B8%80%E6%97%A6%E5%AE%8C%E6%88%90)/FlashAnzan/ViewController.m0000000000000000^4601"CompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/ViewController.o FlashAnzan/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/funatsu/.ads/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-generated-files.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-own-target-headers.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-all-target-headers.hmap -iquote /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-project-headers.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/DerivedSources/i386 -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/DerivedSources -F/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator -include /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-atltxdjoaduhlfbbnfzqrrndlhqm/FlashAnzan-Prefix.pch -MMD -MT dependencies -MF /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/ViewController.dia -c /Users/funatsu/dropbox/236"1DC48474-1233-4601-9D50-01B66F978E8D-
+b8DB0C913-97EC-4B4D-BED2-5922F88E2EC4
+
+CCompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/main.o /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453388047.153851
+e453388047.257610
+r1
+xCompileC
+xbuild/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/main.o
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/main.m
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"Compile /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/main.m185"CompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/main.o FlashAnzan/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2190270f2706bb41^5534420f2706bb41^---0#0#1#-19%DVTDocumentLocation2@264"file://localhost/Users/funatsu/dropbox/2_%E3%83%86%E3%82%99%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E7%94%A8/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-%E3%83%86%E3%82%99%E3%83%A2/FlashAnzan(%E4%B8%80%E6%97%A6%E5%AE%8C%E6%88%90)/FlashAnzan/main.m0000000000000000^4541"CompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/main.o FlashAnzan/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/funatsu/.ads/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-generated-files.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-own-target-headers.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-all-target-headers.hmap -iquote /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-project-headers.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/DerivedSources/i386 -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/DerivedSources -F/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator -include /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-atltxdjoaduhlfbbnfzqrrndlhqm/FlashAnzan-Prefix.pch -MMD -MT dependencies -MF /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/main.dia -c /Use36"B3EABEAE-DD58-4125-A647-AE0FB7F3DFF6-
+b8DB0C913-97EC-4B4D-BED2-5922F88E2EC4
+
+CCompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/AppDelegate.o /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453388047.261109
+e453388047.491314
+r1
+xCompileC
+xbuild/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/AppDelegate.m
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection173"Compile /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/AppDelegate.m203"CompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/AppDelegate.o FlashAnzan/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2a03430f2706bb41^79cb7d0f2706bb41^---0#0#1#-19%DVTDocumentLocation2@271"file://localhost/Users/funatsu/dropbox/2_%E3%83%86%E3%82%99%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E7%94%A8/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-%E3%83%86%E3%82%99%E3%83%A2/FlashAnzan(%E4%B8%80%E6%97%A6%E5%AE%8C%E6%88%90)/FlashAnzan/AppDelegate.m0000000000000000^4597"CompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/AppDelegate.o FlashAnzan/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/funatsu/.ads/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-generated-files.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-own-target-headers.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-all-target-headers.hmap -iquote /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-project-headers.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/DerivedSources/x86_64 -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/DerivedSources -F/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator -include /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-dffntxloxxkzvladxchgglqcqdpc/FlashAnzan-Prefix.pch -MMD -MT dependencies -MF /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/funatsu/dropb36"C2DBA150-9528-476D-A25D-80207BA56FD1-
+b8DB0C913-97EC-4B4D-BED2-5922F88E2EC4
+
+CCompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/ViewController.o /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453388047.154142
+e453388047.381751
+r1
+xCompileC
+xbuild/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/ViewController.o
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/ViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/ViewController.m
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection176"Compile /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/ViewController.m209"CompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/ViewController.o FlashAnzan/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5a9e270f2706bb41^2cba610f2706bb41^---0#0#1#-19%DVTDocumentLocation2@274"file://localhost/Users/funatsu/dropbox/2_%E3%83%86%E3%82%99%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E7%94%A8/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-%E3%83%86%E3%82%99%E3%83%A2/FlashAnzan(%E4%B8%80%E6%97%A6%E5%AE%8C%E6%88%90)/FlashAnzan/ViewController.m0000000000000000^4614"CompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/ViewController.o FlashAnzan/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/funatsu/.ads/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-generated-files.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-own-target-headers.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-all-target-headers.hmap -iquote /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-project-headers.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/DerivedSources/x86_64 -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/DerivedSources -F/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator -include /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-dffntxloxxkzvladxchgglqcqdpc/FlashAnzan-Prefix.pch -MMD -MT dependencies -MF /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/ViewController.d --serialize-diagnostics /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/ViewController.dia -c /Users/funatsu/dropbox/2_36"24B9A3C2-03E9-4245-AE84-2FFD92515CDB-
+b8DB0C913-97EC-4B4D-BED2-5922F88E2EC4
+
+CCompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/main.o /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453388047.383406
+e453388047.470904
+r1
+xCompileC
+xbuild/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/main.o
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/main.m
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"Compile /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/main.m189"CompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/main.o FlashAnzan/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8866620f2706bb41^c18d780f2706bb41^---0#0#1#-19%DVTDocumentLocation2@264"file://localhost/Users/funatsu/dropbox/2_%E3%83%86%E3%82%99%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E7%94%A8/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-%E3%83%86%E3%82%99%E3%83%A2/FlashAnzan(%E4%B8%80%E6%97%A6%E5%AE%8C%E6%88%90)/FlashAnzan/main.m0000000000000000^4555"CompileC build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/main.o FlashAnzan/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/funatsu/.ads/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-generated-files.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-own-target-headers.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-all-target-headers.hmap -iquote /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-project-headers.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/DerivedSources/x86_64 -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/DerivedSources -F/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator -include /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-dffntxloxxkzvladxchgglqcqdpc/FlashAnzan-Prefix.pch -MMD -MT dependencies -MF /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/main.dia -c /Users36"2297B18D-220B-4558-82C2-4ECC3357AA8E-
+b8DB0C913-97EC-4B4D-BED2-5922F88E2EC4
+
+CCompileStoryboard /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/Base.lproj/Main.storyboard
+s453388047.610519
+e453388047.728165
+r1
+xCompileStoryboard
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"CompileStoryboard FlashAnzan/Base.lproj/Main.storyboard55"CompileStoryboard FlashAnzan/Base.lproj/Main.storyboardd0639c0f2706bb41^0588ba0f2706bb41^---0#0#1#-19%DVTDocumentLocation2@284"file://localhost/Users/funatsu/dropbox/2_%E3%83%86%E3%82%99%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E7%94%A8/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-%E3%83%86%E3%82%99%E3%83%A2/FlashAnzan(%E4%B8%80%E6%97%A6%E5%AE%8C%E6%88%90)/FlashAnzan/Base.lproj/Main.storyboard0000000000000000^1109"CompileStoryboard FlashAnzan/Base.lproj/Main.storyboard    cd "/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/funatsu/.ads/bin"    export XCODE_DEVELOPER_USR_PATH="/Applications/Xcode 2.app/Contents/Developer/usr/bin/.."    /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/Base.lproj/Main.storyboardc /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhon36"0C47DCF6-329F-4444-9222-142823F81CF5-
+b8DB0C913-97EC-4B4D-BED2-5922F88E2EC4
+
+CCopyStringsFile /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/en.lproj/InfoPlist.strings FlashAnzan/en.lproj/InfoPlist.strings
+s453388047.610337
+e453388047.613924
+r1
+xCopyStringsFile
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/en.lproj/InfoPlist.strings
+xFlashAnzan/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy FlashAnzan/en.lproj/InfoPlist.strings125"CopyStringsFile build/Release-iphonesimulator/FlashAnzan.app/en.lproj/InfoPlist.strings FlashAnzan/en.lproj/InfoPlist.strings7c5f9c0f2706bb41^b62e9d0f2706bb41^---0#0#1#-19%DVTDocumentLocation2@284"file://localhost/Users/funatsu/dropbox/2_%E3%83%86%E3%82%99%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E7%94%A8/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-%E3%83%86%E3%82%99%E3%83%A2/FlashAnzan(%E4%B8%80%E6%97%A6%E5%AE%8C%E6%88%90)/FlashAnzan/en.lproj/InfoPlist.strings0000000000000000^840"CopyStringsFile build/Release-iphonesimulator/FlashAnzan.app/en.lproj/InfoPlist.strings FlashAnzan/en.lproj/InfoPlist.strings    cd "/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)"    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/funatsu/.ads/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/en.lproj -- FlashAnzan/en.lproj/InfoPlist.strings36"266F9EE8-E0F2-481C-A3A0-78116C83D4F3-
+b8DB0C913-97EC-4B4D-BED2-5922F88E2EC4
+
+CCreateUniversalBinary /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/FlashAnzan normal i386\ x86_64
+s453388047.592617
+e453388047.602089
+r1
+xCreateUniversalBinary
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/FlashAnzan
+xnormal
+xi386 x86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection220"Create universal binary /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/FlashAnzan97"CreateUniversalBinary build/Release-iphonesimulator/FlashAnzan.app/FlashAnzan normal i386\ x86_64e2cc970f2706bb41^f7229a0f2706bb41^---0#0#1#-19%DVTDocumentLocation2@302"file://localhost/Users/funatsu/dropbox/2_%E3%83%86%E3%82%99%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E7%94%A8/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-%E3%83%86%E3%82%99%E3%83%A2/FlashAnzan(%E4%B8%80%E6%97%A6%E5%AE%8C%E6%88%90)/build/Release-iphonesimulator/FlashAnzan.app/FlashAnzan0038a46edfffdf42^1152"CreateUniversalBinary build/Release-iphonesimulator/FlashAnzan.app/FlashAnzan normal i386\ x86_64    cd "/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)"    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/funatsu/.ads/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/FlashAnzan /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/FlashAnzan -output /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school36"2BA47EDE-02B6-46AE-B2A3-FE26FC35F846-
+b8DB0C913-97EC-4B4D-BED2-5922F88E2EC4
+
+CGenerateDSYMFile /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app.dSYM /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/FlashAnzan
+s453388047.959558
+e453388047.992761
+r1
+xGenerateDSYMFile
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app.dSYM
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/FlashAnzan
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection199"Generate /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app.dSYM122"GenerateDSYMFile build/Release-iphonesimulator/FlashAnzan.app.dSYM build/Release-iphonesimulator/FlashAnzan.app/FlashAnzanbfb7f50f2706bb41^8126fe0f2706bb41^---0#0#1#-19%DVTDocumentLocation2@296"file://localhost/Users/funatsu/dropbox/2_%E3%83%86%E3%82%99%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E7%94%A8/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-%E3%83%86%E3%82%99%E3%83%A2/FlashAnzan(%E4%B8%80%E6%97%A6%E5%AE%8C%E6%88%90)/build/Release-iphonesimulator/FlashAnzan.app.dSYM0038a46edfffdf42^1005"GenerateDSYMFile build/Release-iphonesimulator/FlashAnzan.app.dSYM build/Release-iphonesimulator/FlashAnzan.app/FlashAnzan    cd "/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)"    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/funatsu/.ads/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/FlashAnzan -o /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app.dSYM36"D3269093-0429-49D6-8BF9-86F449855C77-
+b8DB0C913-97EC-4B4D-BED2-5922F88E2EC4
+
+CLd /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/FlashAnzan normal i386
+s453388047.501560
+e453388047.580674
+r1
+xLd
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/FlashAnzan
+xnormal
+xi386
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/FlashAnzan.LinkFileList
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/ViewController.o
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/AppDelegate.o
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/main.o
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection240"Link /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/FlashAnzan109"Ld build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/FlashAnzan normal i3866188800f2706bb41^6da8940f2706bb41^---0#0#1#--1928"Ld build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/FlashAnzan normal i386    cd "/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/funatsu/.ads/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator -F/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator -filelist /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/FlashAnzan.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/i386/FlashAnzan_dependency_info.dat -o /Users/funatsu/dropbox/2_ディレクター用/04_Tec36"6AFF933F-6CA7-46A3-84C0-CC912CBCFE79-
+b8DB0C913-97EC-4B4D-BED2-5922F88E2EC4
+
+CLd /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/FlashAnzan normal x86_64
+s453388047.501386
+e453388047.583801
+r1
+xLd
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/FlashAnzan
+xnormal
+xx86_64
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/FlashAnzan.LinkFileList
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/ViewController.o
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection242"Link /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/FlashAnzan113"Ld build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/FlashAnzan normal x86_648674800f2706bb41^a374950f2706bb41^---0#0#1#--1940"Ld build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/FlashAnzan normal x86_64    cd "/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/funatsu/.ads/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator -F/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator -filelist /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/FlashAnzan.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/Objects-normal/x86_64/FlashAnzan_dependency_info.dat -o /Users/funatsu/dropbox/2_ディレクター用/04_TechK36"217652DE-0AF7-4D54-A2B6-0A3A33B5B5CD-
+b8DB0C913-97EC-4B4D-BED2-5922F88E2EC4
+
+CProcessInfoPlistFile /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/Info.plist /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/FlashAnzan-Info.plist
+s453388047.947805
+e453388047.951209
+r1
+xProcessInfoPlistFile
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/Info.plist
+x/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/FlashAnzan-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection181"Process /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/FlashAnzan-Info.plist109"ProcessInfoPlistFile build/Release-iphonesimulator/FlashAnzan.app/Info.plist FlashAnzan/FlashAnzan-Info.plist20b8f20f2706bb41^2783f30f2706bb41^---0#0#1#-19%DVTDocumentLocation2@279"file://localhost/Users/funatsu/dropbox/2_%E3%83%86%E3%82%99%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E7%94%A8/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-%E3%83%86%E3%82%99%E3%83%A2/FlashAnzan(%E4%B8%80%E6%97%A6%E5%AE%8C%E6%88%90)/FlashAnzan/FlashAnzan-Info.plist0000000000000000^1280"ProcessInfoPlistFile build/Release-iphonesimulator/FlashAnzan.app/Info.plist FlashAnzan/FlashAnzan-Info.plist    cd "/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)"    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/funatsu/.ads/bin"    builtin-infoPlistUtility /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/FlashAnzan-Info.plist -genpkginfo /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/assetcatalog_generated_info.plist -o /Users/funatsu/dropbox/2_ディレクター36"C54DBC78-E320-4045-924A-DBE5551EC997-
+b8DB0C913-97EC-4B4D-BED2-5922F88E2EC4
+
+CProcessPCH /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-atltxdjoaduhlfbbnfzqrrndlhqm/FlashAnzan-Prefix.pch.pch FlashAnzan/FlashAnzan-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453388047.003713
+e453388047.142731
+r1
+xProcessPCH
+x/var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-atltxdjoaduhlfbbnfzqrrndlhqm/FlashAnzan-Prefix.pch.pch
+xFlashAnzan/FlashAnzan-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/FlashAnzan-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile FlashAnzan/FlashAnzan-Prefix.pch302"ProcessPCH /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-atltxdjoaduhlfbbnfzqrrndlhqm/FlashAnzan-Prefix.pch.pch FlashAnzan/FlashAnzan-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5036010f2706bb41^6cee240f2706bb41^---0#0#1#-19%DVTDocumentLocation2@279"file://localhost/Users/funatsu/dropbox/2_%E3%83%86%E3%82%99%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E7%94%A8/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-%E3%83%86%E3%82%99%E3%83%A2/FlashAnzan(%E4%B8%80%E6%97%A6%E5%AE%8C%E6%88%90)/FlashAnzan/FlashAnzan-Prefix.pch0000000000000000^4447"ProcessPCH /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-atltxdjoaduhlfbbnfzqrrndlhqm/FlashAnzan-Prefix.pch.pch FlashAnzan/FlashAnzan-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/funatsu/.ads/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-generated-files.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-own-target-headers.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-all-target-headers.hmap -iquote /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-project-headers.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/DerivedSources/i386 -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/DerivedSources -F/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator --serialize-diagnostics /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-atltxdjoaduhlfbbnfzqrrndlhqm/FlashAnzan-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-atltxdjoaduhlfbbnfzqrrndlhqm/FlashAnzan-Prefix.pch.d -c /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/36"36D44183-6DEE-440E-8533-6584602EEF84-
+b8DB0C913-97EC-4B4D-BED2-5922F88E2EC4
+
+CProcessPCH /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-dffntxloxxkzvladxchgglqcqdpc/FlashAnzan-Prefix.pch.pch FlashAnzan/FlashAnzan-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s453388047.006346
+e453388047.142737
+r1
+xProcessPCH
+x/var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-dffntxloxxkzvladxchgglqcqdpc/FlashAnzan-Prefix.pch.pch
+xFlashAnzan/FlashAnzan-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/FlashAnzan/FlashAnzan-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile FlashAnzan/FlashAnzan-Prefix.pch304"ProcessPCH /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-dffntxloxxkzvladxchgglqcqdpc/FlashAnzan-Prefix.pch.pch FlashAnzan/FlashAnzan-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd1ce010f2706bb41^4145250f2706bb41^---0#0#1#-19%DVTDocumentLocation2@279"file://localhost/Users/funatsu/dropbox/2_%E3%83%86%E3%82%99%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E7%94%A8/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-%E3%83%86%E3%82%99%E3%83%A2/FlashAnzan(%E4%B8%80%E6%97%A6%E5%AE%8C%E6%88%90)/FlashAnzan/FlashAnzan-Prefix.pch0000000000000000^4453"ProcessPCH /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-dffntxloxxkzvladxchgglqcqdpc/FlashAnzan-Prefix.pch.pch FlashAnzan/FlashAnzan-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/funatsu/.ads/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-generated-files.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-own-target-headers.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-all-target-headers.hmap -iquote /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/FlashAnzan-project-headers.hmap -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/DerivedSources/x86_64 -I/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/FlashAnzan.build/Release-iphonesimulator/FlashAnzan.build/DerivedSources -F/Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator --serialize-diagnostics /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-dffntxloxxkzvladxchgglqcqdpc/FlashAnzan-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/pv/fxhgm27j67j58zzjh3hd0z2w0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/FlashAnzan-Prefix-dffntxloxxkzvladxchgglqcqdpc/FlashAnzan-Prefix.pch.d -c /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/36"DF766323-BC5E-41A7-B52E-A103A63EE3C7-
+b8DB0C913-97EC-4B4D-BED2-5922F88E2EC4
+
+CTouch /Users/funatsu/dropbox/2_ディレクター用/04_TechKidsSchool/03_school_USB/1_iPhone/iPhone4/2/3/02-デモ/FlashAnzan(一旦完成)/build/Release-iphonesimulator/FlashAnzan.app
+r0
+
